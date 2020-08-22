@@ -18,3 +18,6 @@ In addition, we will take advantage of Foursquare API location data to extract v
 
 Full project report can be seen in the Wiki -
 https://github.com/sudhaahuja/Coursera_Capstone/wiki/Week2_Capstone_Report
+
+Project blog/presentation -
+https://towardsdatascience.com/a-tale-of-two-cities-e693c15b3ddb
