@@ -1,1 +1,1 @@
-Solutions for business problems 
+Learning solutions for business problems using data
