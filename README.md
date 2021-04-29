@@ -1,3 +1,3 @@
 # DataScienceProjects
 
-Collection of all Data Science / Machine Learning projects I am working on currenntly.
+Collection of all Data Science / Machine Learning projects I am working on currently.
